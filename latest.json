@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0-beta.11.51.4",
+    "version":  "0.1.0-beta.11.52.1",
     "date":  "2026-09-19",
-    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.51.4/PrintFlow-beta.11.51.4-setup.exe",
-    "size":  50907152,
-    "sha256":  "A66C0C92A3EF037BA9436FFBB8BF6DCDCE0C362446591FD5391317DE72835FA3",
-    "notes":  "Из «Параметров» убрано поле «Откуда брать обновления» — оно ничего не давало обычному человеку. Настройка осталась внутри: если раздача когда-нибудь переедет, новый адрес придёт обновлением."
+    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.52.1/PrintFlow-beta.11.52.1-setup.exe",
+    "size":  50913832,
+    "sha256":  "BBE5FCB79EFE700A2391C85B1B5C905C3D36A96E1B7EFB8DC8BE927B207A10D0",
+    "notes":  "«Параметры» стали компактнее: помощник ИИ открывается отдельным окном по кнопке, а все пояснения переехали в подсказки при наведении. Было два экрана с прокруткой — стала треть одного."
 }
