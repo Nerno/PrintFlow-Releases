@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0-beta.11.52.1",
+    "version":  "0.1.0-beta.11.53",
     "date":  "2026-09-19",
-    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.52.1/PrintFlow-beta.11.52.1-setup.exe",
-    "size":  50913832,
-    "sha256":  "BBE5FCB79EFE700A2391C85B1B5C905C3D36A96E1B7EFB8DC8BE927B207A10D0",
-    "notes":  "«Параметры» стали компактнее: помощник ИИ открывается отдельным окном по кнопке, а все пояснения переехали в подсказки при наведении. Было два экрана с прокруткой — стала треть одного."
+    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.53/PrintFlow-beta.11.53-setup.exe",
+    "size":  50909440,
+    "sha256":  "AD1F44DCB5CCE39A9AE0C2F7584E54E4AD1E42934596089D05EDB86C2663C64D",
+    "notes":  "В «Главной», в столбце «Проекты», теперь можно выделить несколько проектов — Ctrl или Shift, все сразу Ctrl+A или пунктом «Выделить все» — и удалить выделенное клавишей Delete. Файлы на диске это не затрагивает, а печатающиеся проекты не удаляются."
 }
