@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0-beta.11.53",
+    "version":  "0.1.0-beta.11.53.1",
     "date":  "2026-09-19",
-    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.53/PrintFlow-beta.11.53-setup.exe",
-    "size":  50909440,
-    "sha256":  "AD1F44DCB5CCE39A9AE0C2F7584E54E4AD1E42934596089D05EDB86C2663C64D",
-    "notes":  "В «Главной», в столбце «Проекты», теперь можно выделить несколько проектов — Ctrl или Shift, все сразу Ctrl+A или пунктом «Выделить все» — и удалить выделенное клавишей Delete. Файлы на диске это не затрагивает, а печатающиеся проекты не удаляются."
+    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.53.1/PrintFlow-beta.11.53.1-setup.exe",
+    "size":  50919296,
+    "sha256":  "2D8DB5CD14A25858CA63712BC68D04C7CDEC8E1BCABFADCD5242768C1FC29A63",
+    "notes":  "Исправлено: полоса «Отправка приостановлена» не уходила после нажатия «Разрешить отправку». Вы делали всё правильно, а экран не отвечал."
 }
