@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0-beta.11.54.8",
+    "version":  "0.1.0-beta.11.54.9",
     "date":  "2026-09-25",
-    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.54.8/PrintFlow-beta.11.54.8-setup.exe",
-    "size":  51036152,
-    "sha256":  "C088027809C6B0E8E7FE6C165F8FB9A0DEBB7EA55D6F2CA927A1AB785AD9885A",
-    "notes":  "Установщик на новом компьютере предлагает открыть сайт для скачивания SumatraPDF — галочкой на последней странице."
+    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.54.9/PrintFlow-beta.11.54.9-setup.exe",
+    "size":  51040984,
+    "sha256":  "2C2A812778641DA2B983C059FCF44122821417253006277A62E51F205CC4A730",
+    "notes":  "SumatraPDF находится, в какую бы папку её ни поставили, и видна сразу после установки — без перезапуска PrintFlow."
 }
