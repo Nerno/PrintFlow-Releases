@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0-beta.11.54.9",
-    "date":  "2026-09-25",
-    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.54.9/PrintFlow-beta.11.54.9-setup.exe",
-    "size":  51040984,
-    "sha256":  "2C2A812778641DA2B983C059FCF44122821417253006277A62E51F205CC4A730",
-    "notes":  "SumatraPDF находится, в какую бы папку её ни поставили, и видна сразу после установки — без перезапуска PrintFlow."
+    "version":  "0.1.0-beta.11.54.10",
+    "date":  "2026-09-28",
+    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.54.10/PrintFlow-beta.11.54.10-setup.exe",
+    "size":  51043528,
+    "sha256":  "DA41C8AD6764BC1DEA4FEF33490B7B899BDF09742D8EB496E6FB4F7B76E8E047",
+    "notes":  "Убрана тёмная полоса, которая во время печати ложилась на карточку файла поверх шкалы и счётчика листов."
 }
