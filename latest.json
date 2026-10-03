@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0-beta.11.54.10",
-    "date":  "2026-09-28",
-    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.54.10/PrintFlow-beta.11.54.10-setup.exe",
-    "size":  51043528,
-    "sha256":  "DA41C8AD6764BC1DEA4FEF33490B7B899BDF09742D8EB496E6FB4F7B76E8E047",
-    "notes":  "Убрана тёмная полоса, которая во время печати ложилась на карточку файла поверх шкалы и счётчика листов."
+    "version":  "0.1.0-beta.11.54.11",
+    "date":  "2026-10-03",
+    "url":  "https://github.com/Nerno/PrintFlow-Releases/releases/download/v0.1.0-beta.11.54.11/PrintFlow-beta.11.54.11-setup.exe",
+    "size":  51046592,
+    "sha256":  "7CF26D99CB1CF05D3F8ECD946B9C285FFE2F1C5ED0B38C9A46D2FA759E6B30C2",
+    "notes":  "Файл, которому участки печати достались от другого, более длинного файла, больше не печатается: программа помечает его «не подходит» и говорит об этом перед печатью. Раньше так выходили лишние копии последних страниц."
 }
